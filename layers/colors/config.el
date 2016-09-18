@@ -15,7 +15,7 @@
   "If non nil the `rainbow-identifers' package is enabled.")
 
 (defvar colors-enable-nyan-cat-progress-bar nil
-  "If non nil all nyan cat packges are enabled (for now only `nyan-mode').")
+  "If non nil all nyan cat packages are enabled (for now only `nyan-mode').")
 
 (defvar colors-theme-identifiers-sat&light
   '((jazz . (50 55))
